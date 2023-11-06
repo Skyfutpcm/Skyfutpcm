@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Hi, I'm Skylar, an <a href="https://linkedin.com/in/SkylarFutpcm">IT Professional</a>☺</h1>
+<h1>Hi, I'm Skylar
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
