@@ -9,7 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Skyfutpcm/osticket)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Skyfutpcm/osticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/SkyFutpcm/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Skyfutpcm/active-directory)
 
 
 
