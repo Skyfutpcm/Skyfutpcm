@@ -2,6 +2,18 @@
 
 <h1>Hi, I'm Skylar
 
+<br>
+
+<!-- Certifications -->
+
+<h2 align = "center">Certifications</h2>
+<ul>
+  <li>CourseCareers IT Professional (In progress, expected Dec 1st, 2023)</li>
+</ul>
+
+<br>
+
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
