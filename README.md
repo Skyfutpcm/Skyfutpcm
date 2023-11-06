@@ -5,8 +5,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/SkyFutpcm/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/SkyFutpcm/post-install-config)
+  - [osTicket: Prerequisites and Installation](https://github.com/Skyfutpcm/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Skyfutpcm/osticket)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Skyfutpcm/osticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/SkyFutpcm/configure-ad)
